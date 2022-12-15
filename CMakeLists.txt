@@ -30,5 +30,20 @@ add_executable(_xpl_c
         #        s11_24_01.c #70 71 72 73 74 75
         #        s11_25.c #76 77 78 // 79 80 81
 #        cprimerplus/chapter_01.c
-        music/QiFengLe.cpp
-        )
+#        cprimerplus/chapter_05.c
+#        cprimerplus/s11_30.c
+#        cprimerplus/s12_01.c   cprimerplus/laputa.c
+
+#        cprimerplus/s12_05.c cprimerplus/laputa.h cprimerplus/laputa_1.c
+        collections/ArrayList.h collections/ArrayList.c
+#        cprimerplus/s12_05_01.c
+#        cprimerplus/s12_06.c
+#        cprimerplus/s12_07.c
+#        cprimerplus/s12_07_01.c cprimerplus/generic_demo.c
+#        cprimerplus/s12_08.c
+#        cprimerplus/s12_08_1.c  collections/LinkedFilm.c collections/LinkedFilm.h
+        cprimerplus/Strings.c
+        collections/LinkedList.h
+#        cprimerplus/s12_12.c
+#        collections/LinkedList.c collections/x_Queue.c collections/x_Queue.h
+        cprimerplus/s12_13.c collections/x_Tree.c collections/x_Tree.h)
